@@ -133,3 +133,14 @@ body {
   font-size: 1rem;
   border-top: 1px solid var(--shadow-color);
 }
+.filter-btn{
+  onclick:onclick;
+  background-color: var(--primary-color);
+  border-radius: 8px;
+  box-shadow: 0 4px 2px var(--shadow-color) ;
+  text-align: center;
+  font-weight: bold;
+  color: var(--text-color);
+  width: 150px;
+  height: fit-content;
+}
